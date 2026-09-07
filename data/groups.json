@@ -1,511 +1,511 @@
 [
   {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-1",
-    "title": "r/CryptoCurrency Global Hub",
+    "title": "r/solana High-Speed Blockchain",
     "platform": "Reddit",
-    "category": "Cryptocurrency",
-    "memberCount": "8,200,000+ members",
-    "description": "The largest cryptocurrency community in the world for market news, tokenomics analysis, and blockchain developments.",
-    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "category": "Solana Ecosystem",
+    "memberCount": "380,000+ members",
+    "description": "The central Reddit community for Solana architecture, ecosystem updates, DEX developments, and high-throughput blockchain discussion.",
+    "joinUrl": "https://www.reddit.com/r/solana/",
     "tags": [
+      "solana",
       "crypto",
       "blockchain",
-      "bitcoin",
       "reddit"
     ],
+    "id": "crypto-solana-memecoins-hub-reddit-1",
     "verified": true,
     "featured": true
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-2",
-    "title": "r/ethereum Developers & Tech",
+    "title": "r/SolanaMemeCoins Alpha & Discussion",
     "platform": "Reddit",
-    "category": "Smart Contracts",
-    "memberCount": "3,400,000+ members",
-    "description": "Subreddit focused on Ethereum network upgrades, Layer 2 rollups, EVM smart contracts, and proof-of-stake economics.",
-    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "category": "Solana Memecoins",
+    "memberCount": "65,000+ members",
+    "description": "Dedicated forum for Solana memecoin trends, new token launches, liquidity pair analysis, and community tokenomics.",
+    "joinUrl": "https://www.reddit.com/r/SolanaMemeCoins/",
     "tags": [
-      "ethereum",
-      "smart-contracts",
-      "evm",
+      "solana",
+      "memecoins",
+      "alpha",
       "reddit"
     ],
+    "id": "crypto-solana-memecoins-hub-reddit-2",
     "verified": true,
     "featured": true
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-3",
+    "title": "r/CryptoMoonShots Early Discoveries",
+    "platform": "Reddit",
+    "category": "Crypto Alpha",
+    "memberCount": "2,100,000+ members",
+    "description": "High-velocity community dedicated to discovering early-stage cryptocurrency tokens, DEX listings, and community-driven projects.",
+    "joinUrl": "https://www.reddit.com/r/CryptoMoonShots/",
+    "tags": [
+      "moonshots",
+      "crypto",
+      "altcoins",
+      "reddit"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-3",
+    "verified": true,
+    "featured": true
+  },
+  {
+    "title": "r/CryptoCurrency Global Market Hub",
+    "platform": "Reddit",
+    "category": "Crypto Markets",
+    "memberCount": "8,900,000+ members",
+    "description": "The leading Reddit crypto community covering market trends, regulatory shifts, decentralized technologies, and macroeconomic sentiment.",
+    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "tags": [
+      "cryptocurrency",
+      "market",
+      "blockchain",
+      "reddit"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-4",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/Raydium AMM & Liquidity Pools",
+    "platform": "Reddit",
+    "category": "Solana DeFi",
+    "memberCount": "22,000+ members",
+    "description": "Official community for Raydium on-chain liquidity providers, Concentrated Liquidity (CLMM) pools, and automated swaps.",
+    "joinUrl": "https://www.reddit.com/r/Raydium/",
+    "tags": [
+      "raydium",
+      "amm",
+      "solana",
+      "dex"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-5",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/JupiterExchange DEX Aggregator Hub",
+    "platform": "Reddit",
+    "category": "Solana DeFi",
+    "memberCount": "35,000+ members",
+    "description": "Community dedicated to Jupiter exchange routing, perpetual futures, Jupuary governance, and optimal trade execution.",
+    "joinUrl": "https://www.reddit.com/r/JupiterExchange/",
+    "tags": [
+      "jupiter",
+      "jup",
+      "dex",
+      "solana"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-6",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/dexscreener Real-Time Analytics",
+    "platform": "Reddit",
+    "category": "DEX Analytics",
+    "memberCount": "18,000+ members",
+    "description": "Discussions on DEX chart analysis, token pair metrics, liquidity locks, volume tracking, and market trends.",
+    "joinUrl": "https://www.reddit.com/r/dexscreener/",
+    "tags": [
+      "dexscreener",
+      "charts",
+      "analytics",
+      "trading"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-7",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/PumpFun Bonding Curve Launchpad",
+    "platform": "Reddit",
+    "category": "Token Launches",
+    "memberCount": "28,000+ members",
+    "description": "Discussions on fair-launch token mechanics, bonding curve dynamics, Raydium migration thresholds, and creator tokens.",
+    "joinUrl": "https://www.reddit.com/r/PumpFun/",
+    "tags": [
+      "pumpfun",
+      "launches",
+      "memecoins",
+      "solana"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-8",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/CryptoMarkets Technical Analysis",
+    "platform": "Reddit",
+    "category": "Technical Analysis",
+    "memberCount": "1,600,000+ members",
+    "description": "Algorithmic and chart-based trading discussions, on-chain whale activity, and market momentum analysis.",
+    "joinUrl": "https://www.reddit.com/r/CryptoMarkets/",
+    "tags": [
+      "cryptomarkets",
+      "ta",
+      "trading",
+      "whales"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-9",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/altcoin Research & Discovery",
+    "platform": "Reddit",
+    "category": "Altcoin Alpha",
+    "memberCount": "240,000+ members",
+    "description": "Discussions on emerging alternative cryptocurrencies, consensus mechanisms, and multi-chain ecosystem developments.",
+    "joinUrl": "https://www.reddit.com/r/altcoin/",
+    "tags": [
+      "altcoin",
+      "alpha",
+      "crypto",
+      "reddit"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-10",
+    "verified": true,
+    "featured": false
+  },
+  {
     "title": "r/defi Decentralized Finance",
     "platform": "Reddit",
-    "category": "DeFi Alpha",
+    "category": "DeFi Protocols",
     "memberCount": "180,000+ members",
-    "description": "Community dedicated to yield farming, automated market makers (AMMs), lending protocols, and liquidity pools.",
+    "description": "Global discussion on smart contract financial applications, automated yield protocols, and decentralized exchange architecture.",
     "joinUrl": "https://www.reddit.com/r/defi/",
     "tags": [
       "defi",
+      "finance",
+      "yield",
+      "smart-contracts"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-11",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/deficryptos Deep Strategy Forum",
+    "platform": "Reddit",
+    "category": "DeFi Research",
+    "memberCount": "145,000+ members",
+    "description": "In-depth forum exploring decentralized protocols, LP staking strategies, smart contract security, and liquidity architecture.",
+    "joinUrl": "https://www.reddit.com/r/deficryptos/",
+    "tags": [
+      "deficryptos",
       "yield",
       "liquidity",
       "reddit"
     ],
+    "id": "crypto-solana-memecoins-hub-reddit-12",
     "verified": true,
-    "featured": true
+    "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-4",
-    "title": "r/solana High Throughput",
+    "title": "r/SatoshiStreetBets High-Beta Alpha",
     "platform": "Reddit",
-    "category": "Layer 1 Blockchain",
-    "memberCount": "310,000+ members",
-    "description": "Subreddit covering Solana ecosystem speed, Rust smart contracts, decentralized apps, and validator infrastructure.",
-    "joinUrl": "https://www.reddit.com/r/solana/",
+    "category": "Trading & Alpha",
+    "memberCount": "720,000+ members",
+    "description": "High-risk trading discussions, decentralized token strategies, breakout momentum calls, and community token analysis.",
+    "joinUrl": "https://www.reddit.com/r/SatoshiStreetBets/",
     "tags": [
-      "solana",
-      "rust",
-      "layer1",
-      "reddit"
+      "satoshistreetbets",
+      "trading",
+      "momentum",
+      "crypto"
     ],
+    "id": "crypto-solana-memecoins-hub-reddit-13",
     "verified": true,
     "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-discord-5",
-    "title": "Ethereum Official Discord",
+    "title": "Solana Developer Discord Server",
     "platform": "Discord",
-    "category": "Web3 & Blockchain",
-    "memberCount": "180,000+ members",
-    "description": "Community server connecting core developers, Solidity researchers, and decentralized application creators.",
-    "joinUrl": "https://discord.gg/ethereum",
-    "tags": [
-      "ethereum",
-      "web3",
-      "solidity",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-discord-6",
-    "title": "Solana Community Discord",
-    "platform": "Discord",
-    "category": "Layer 1 Blockchain",
-    "memberCount": "150,000+ members",
-    "description": "Real-time hub for Solana developers building high-throughput decentralized protocols and Web3 games.",
+    "category": "Solana Development",
+    "memberCount": "95,000+ members",
+    "description": "Official developer server for building on Solana, Anchor framework, RPC infrastructure, and validator operations.",
     "joinUrl": "https://discord.gg/solana",
     "tags": [
       "solana",
-      "web3",
-      "anchor",
+      "discord",
+      "developers",
+      "validators"
+    ],
+    "id": "crypto-solana-memecoins-hub-discord-14",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Raydium Protocol Discord Server",
+    "platform": "Discord",
+    "category": "Solana DeFi",
+    "memberCount": "65,000+ members",
+    "description": "Real-time support and community discussions for Raydium AMM pools, CLMM liquidity, and new token listings.",
+    "joinUrl": "https://discord.gg/raydium",
+    "tags": [
+      "raydium",
+      "discord",
+      "amm",
+      "liquidity"
+    ],
+    "id": "crypto-solana-memecoins-hub-discord-15",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Jupiter Exchange Discord Community",
+    "platform": "Discord",
+    "category": "Solana Trading",
+    "memberCount": "80,000+ members",
+    "description": "Official real-time community for Jupiter users, perpetual traders, developer APIs, and ecosystem governance.",
+    "joinUrl": "https://discord.gg/jup",
+    "tags": [
+      "jupiter",
+      "discord",
+      "trading",
+      "dex"
+    ],
+    "id": "crypto-solana-memecoins-hub-discord-16",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "DexScreener Official Discord",
+    "platform": "Discord",
+    "category": "DEX Analytics",
+    "memberCount": "45,000+ members",
+    "description": "Official community for DexScreener users, multi-chain chart alerts, API integrations, and token analytics.",
+    "joinUrl": "https://discord.gg/dexscreener",
+    "tags": [
+      "dexscreener",
+      "discord",
+      "charts",
+      "analytics"
+    ],
+    "id": "crypto-solana-memecoins-hub-discord-17",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Phantom Wallet Community Discord",
+    "platform": "Discord",
+    "category": "Web3 Wallets",
+    "memberCount": "120,000+ members",
+    "description": "Community Discord for Phantom wallet users, multi-chain dApp integration, security best practices, and release alerts.",
+    "joinUrl": "https://discord.gg/phantom",
+    "tags": [
+      "phantom",
+      "wallet",
+      "solana",
       "discord"
     ],
+    "id": "crypto-solana-memecoins-hub-discord-18",
     "verified": true,
     "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-telegram-7",
-    "title": "Crypto News & Alpha Channel",
-    "platform": "Telegram",
-    "category": "Crypto Alpha",
-    "memberCount": "160,000+ members",
-    "description": "Real-time market updates, on-chain whale alerts, token listings, and protocol governance votes.",
-    "joinUrl": "https://t.me/cryptonews",
-    "tags": [
-      "crypto",
-      "telegram",
-      "news",
-      "alpha"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-forum-8",
-    "title": "Ethereum Research Forum",
-    "platform": "Forum",
-    "category": "Cryptographic Research",
-    "memberCount": "80,000+ members",
-    "description": "The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.",
-    "joinUrl": "https://research.ethdev.com",
-    "tags": [
-      "ethereum",
-      "forum",
-      "cryptography",
-      "research"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-9",
-    "title": "r/investing Long Term Wealth",
-    "platform": "Reddit",
-    "category": "Investing",
-    "memberCount": "2,600,000+ members",
-    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
-    "tags": [
-      "investing",
-      "stocks",
-      "wealth",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-10",
-    "title": "r/stocks Market News",
-    "platform": "Reddit",
-    "category": "Stock Market",
-    "memberCount": "6,400,000+ members",
-    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
-    "joinUrl": "https://www.reddit.com/r/stocks/",
-    "tags": [
-      "stocks",
-      "wall-street",
-      "earnings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-11",
-    "title": "r/personalfinance Money Management",
-    "platform": "Reddit",
-    "category": "Personal Finance",
-    "memberCount": "19,000,000+ members",
-    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
-    "joinUrl": "https://www.reddit.com/r/personalfinance/",
-    "tags": [
-      "personal-finance",
-      "budgeting",
-      "savings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-12",
-    "title": "r/financialindependence FIRE Hub",
-    "platform": "Reddit",
-    "category": "Financial Independence",
-    "memberCount": "2,200,000+ members",
-    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
-    "joinUrl": "https://www.reddit.com/r/financialindependence/",
-    "tags": [
-      "fire",
-      "retirement",
-      "investing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-13",
-    "title": "r/wallstreetbets Alpha & Options",
-    "platform": "Reddit",
-    "category": "Trading",
-    "memberCount": "16,500,000+ members",
-    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
-    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
-    "tags": [
-      "wsb",
-      "trading",
-      "options",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-14",
-    "title": "r/realestateinvesting Wealth Hub",
-    "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "540,000+ members",
-    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
-    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
-    "tags": [
-      "real-estate",
-      "syndications",
-      "investing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-discord-15",
-    "title": "Stock Market Discord Hub",
+    "title": "Orca DEX Community Discord",
     "platform": "Discord",
-    "category": "Trading & Stocks",
-    "memberCount": "110,000+ members",
-    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
-    "joinUrl": "https://discord.gg/stocks",
+    "category": "Solana DeFi",
+    "memberCount": "40,000+ members",
+    "description": "Community for Orca whirlpool liquidity providers, Whirlpools SDK developers, and token swap optimization.",
+    "joinUrl": "https://discord.gg/orca",
     "tags": [
-      "stocks",
-      "trading",
-      "discord",
-      "market"
+      "orca",
+      "whirlpools",
+      "dex",
+      "discord"
     ],
+    "id": "crypto-solana-memecoins-hub-discord-19",
     "verified": true,
     "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-telegram-16",
-    "title": "Bloomberg Market Feed Channel",
+    "title": "Solana Ecosystem Telegram Hub",
     "platform": "Telegram",
-    "category": "Market News",
-    "memberCount": "140,000+ members",
-    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
-    "joinUrl": "https://t.me/bloomberg",
+    "category": "Solana News",
+    "memberCount": "110,000+ members",
+    "description": "Curated real-time broadcast channel delivering Solana network status, major dApp announcements, and ecosystem milestones.",
+    "joinUrl": "https://t.me/solana",
     "tags": [
-      "bloomberg",
-      "macro",
+      "solana",
       "telegram",
+      "announcements",
       "news"
     ],
+    "id": "crypto-solana-memecoins-hub-telegram-20",
     "verified": true,
     "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-forum-17",
-    "title": "Bogleheads Forum Community",
-    "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
-    "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-forum-18",
-    "title": "BiggerPockets Real Estate Forum",
-    "platform": "Forum",
-    "category": "Real Estate",
-    "memberCount": "2,000,000+ members",
-    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
-    "joinUrl": "https://www.biggerpockets.com/forums",
-    "tags": [
-      "biggerpockets",
-      "real-estate",
-      "forum",
-      "wholesaling"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-19",
-    "title": "r/Python Developer Community",
-    "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
-    "tags": [
-      "python",
-      "backend",
-      "software-engineering",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-discord-20",
-    "title": "Python Official Discord",
-    "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://discord.gg/python",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-telegram-21",
-    "title": "Python Developers Telegram Channel",
+    "title": "Raydium Official Telegram",
     "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
+    "category": "Solana DeFi",
+    "memberCount": "55,000+ members",
+    "description": "Official Telegram group for Raydium protocol updates, farm announcements, and liquidity pool metrics.",
+    "joinUrl": "https://t.me/raydium",
     "tags": [
-      "python",
+      "raydium",
       "telegram",
-      "scripts",
-      "tips"
+      "liquidity",
+      "solana"
     ],
+    "id": "crypto-solana-memecoins-hub-telegram-21",
     "verified": true,
     "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-22",
-    "title": "r/programming International",
-    "platform": "Reddit",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
-    "tags": [
-      "programming",
-      "engineering",
-      "industry",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-discord-23",
-    "title": "The Programmer's Hangout",
-    "platform": "Discord",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
-    "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-24",
-    "title": "r/rust Systems Programming",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
-    "tags": [
-      "rust",
-      "systems",
-      "concurrency",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-discord-25",
-    "title": "Rust Programming Language Discord",
-    "platform": "Discord",
-    "category": "Systems Programming",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
-    "joinUrl": "https://discord.gg/rust-lang",
-    "tags": [
-      "rust",
-      "systems",
-      "discord",
-      "compiler"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-telegram-26",
-    "title": "Rust Language News & Updates",
+    "title": "Jupiter Exchange Telegram Channel",
     "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
+    "category": "DEX Aggregation",
+    "memberCount": "62,000+ members",
+    "description": "Official news and announcements channel for Jupiter Exchange, feature updates, and community calls.",
+    "joinUrl": "https://t.me/jupiterchannel",
     "tags": [
-      "rust",
+      "jupiter",
       "telegram",
-      "systems",
+      "dex",
       "updates"
     ],
+    "id": "crypto-solana-memecoins-hub-telegram-22",
     "verified": true,
     "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-27",
-    "title": "r/javascript Global Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
-    "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-discord-28",
-    "title": "Reactiflux Discord Community",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://discord.gg/reactiflux",
-    "tags": [
-      "react",
-      "frontend",
-      "javascript",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "solana-ecosystem-alpha-callers-hub-telegram-29",
-    "title": "Web Developers Network",
+    "title": "DexScreener Alerts Telegram",
     "platform": "Telegram",
-    "category": "Web Development",
-    "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
-    "joinUrl": "https://t.me/webdev_hub",
+    "category": "DEX Alerts",
+    "memberCount": "85,000+ members",
+    "description": "Automated price alert bot and news channel covering high-volume pair creations and liquidity surges.",
+    "joinUrl": "https://t.me/dexscreener",
     "tags": [
-      "webdev",
-      "frontend",
+      "dexscreener",
       "telegram",
-      "tooling"
+      "alerts",
+      "trading"
     ],
+    "id": "crypto-solana-memecoins-hub-telegram-23",
     "verified": true,
     "featured": false
   },
   {
-    "id": "solana-ecosystem-alpha-callers-hub-reddit-30",
-    "title": "r/golang Backend Hub",
-    "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
+    "title": "PumpFun Official Community Telegram",
+    "platform": "Telegram",
+    "category": "Token Launches",
+    "memberCount": "90,000+ members",
+    "description": "Official channel for PumpFun news, platform upgrades, volume milestones, and community discussion.",
+    "joinUrl": "https://t.me/pumpfun",
     "tags": [
-      "golang",
-      "backend",
-      "concurrency",
+      "pumpfun",
+      "telegram",
+      "launches",
+      "solana"
+    ],
+    "id": "crypto-solana-memecoins-hub-telegram-24",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Crypto News & Alpha Radar Telegram",
+    "platform": "Telegram",
+    "category": "Crypto News",
+    "memberCount": "185,000+ members",
+    "description": "High-velocity curated breaking cryptocurrency news, token unlocks, and market catalyst alerts.",
+    "joinUrl": "https://t.me/cryptonews",
+    "tags": [
+      "cryptonews",
+      "telegram",
+      "breaking",
+      "market"
+    ],
+    "id": "crypto-solana-memecoins-hub-telegram-25",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "CoinMarketCap Fast Alerts Telegram",
+    "platform": "Telegram",
+    "category": "Market Data",
+    "memberCount": "210,000+ members",
+    "description": "Official CoinMarketCap updates, trending token rankings, global market cap metrics, and top gainers.",
+    "joinUrl": "https://t.me/CoinMarketCap",
+    "tags": [
+      "coinmarketcap",
+      "telegram",
+      "market",
+      "rankings"
+    ],
+    "id": "crypto-solana-memecoins-hub-telegram-26",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/ethtrader Market Discussion",
+    "platform": "Reddit",
+    "category": "Ethereum Trading",
+    "memberCount": "2,400,000+ members",
+    "description": "Ethereum trading sentiment, DeFi market reports, gas optimization strategies, and cross-chain ecosystem analysis.",
+    "joinUrl": "https://www.reddit.com/r/ethtrader/",
+    "tags": [
+      "ethtrader",
+      "ethereum",
+      "trading",
       "reddit"
     ],
+    "id": "crypto-solana-memecoins-hub-reddit-27",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/ethfinance Financial Ecosystem",
+    "platform": "Reddit",
+    "category": "Ethereum Economics",
+    "memberCount": "130,000+ members",
+    "description": "Daily discussions on decentralized monetary policy, validator staking yields, Layer 2 metrics, and smart contract finance.",
+    "joinUrl": "https://www.reddit.com/r/ethfinance/",
+    "tags": [
+      "ethfinance",
+      "staking",
+      "economics",
+      "reddit"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-28",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Ethereum Core Discord Server",
+    "platform": "Discord",
+    "category": "Ethereum Research",
+    "memberCount": "240,000+ members",
+    "description": "Official community Discord server for Ethereum developers, all-core-dev meetings, and smart contract researchers.",
+    "joinUrl": "https://discord.gg/ethereum",
+    "tags": [
+      "ethereum",
+      "discord",
+      "developers",
+      "research"
+    ],
+    "id": "crypto-solana-memecoins-hub-discord-29",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "CoinDesk Official Market Wire",
+    "platform": "Telegram",
+    "category": "Institutional News",
+    "memberCount": "140,000+ members",
+    "description": "Live editorial reporting on cryptocurrency regulatory frameworks, institutional adoption, and macro trends.",
+    "joinUrl": "https://t.me/coindesk",
+    "tags": [
+      "coindesk",
+      "telegram",
+      "editorial",
+      "macro"
+    ],
+    "id": "crypto-solana-memecoins-hub-telegram-30",
     "verified": true,
     "featured": false
   }
