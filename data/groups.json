@@ -1,5 +1,24 @@
 [
   {
+    "id": "crypto-solana-memecoins-hub-reddit-20260913-1",
+    "title": "r/airdrop Verified Token Airdrops",
+    "platform": "Reddit",
+    "category": "Airdrop Alpha",
+    "memberCount": "115,000+ members",
+    "description": "The primary Reddit community for tracking verified cryptocurrency airdrops, eligibility requirements, and snapshot alerts.",
+    "joinUrl": "https://www.reddit.com/r/airdrop/",
+    "tags": [
+      "airdrop",
+      "crypto",
+      "free-crypto",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "title": "r/solana High-Speed Blockchain",
     "platform": "Reddit",
     "category": "Solana Ecosystem",
@@ -14,7 +33,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-1",
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "title": "r/SolanaMemeCoins Alpha & Discussion",
@@ -31,7 +51,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-2",
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "title": "r/CryptoMoonShots Early Discoveries",
@@ -48,7 +69,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-3",
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "title": "r/CryptoCurrency Global Market Hub",
@@ -65,7 +87,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-4",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/Raydium AMM & Liquidity Pools",
@@ -82,7 +105,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-5",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/JupiterExchange DEX Aggregator Hub",
@@ -99,7 +123,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-6",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/dexscreener Real-Time Analytics",
@@ -116,7 +141,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-7",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/PumpFun Bonding Curve Launchpad",
@@ -133,7 +159,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-8",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/CryptoMarkets Technical Analysis",
@@ -150,7 +177,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-9",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/altcoin Research & Discovery",
@@ -167,7 +195,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-10",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/defi Decentralized Finance",
@@ -184,7 +213,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-11",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/deficryptos Deep Strategy Forum",
@@ -201,7 +231,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-12",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/SatoshiStreetBets High-Beta Alpha",
@@ -218,7 +249,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-13",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Solana Developer Discord Server",
@@ -235,7 +267,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-discord-14",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Raydium Protocol Discord Server",
@@ -252,7 +285,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-discord-15",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Jupiter Exchange Discord Community",
@@ -269,7 +303,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-discord-16",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "DexScreener Official Discord",
@@ -286,7 +321,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-discord-17",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Phantom Wallet Community Discord",
@@ -303,7 +339,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-discord-18",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Orca DEX Community Discord",
@@ -320,7 +357,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-discord-19",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Solana Ecosystem Telegram Hub",
@@ -337,7 +375,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-20",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Raydium Official Telegram",
@@ -354,7 +393,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-21",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Jupiter Exchange Telegram Channel",
@@ -371,7 +411,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-22",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "DexScreener Alerts Telegram",
@@ -388,7 +429,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-23",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "PumpFun Official Community Telegram",
@@ -405,7 +447,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-24",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Crypto News & Alpha Radar Telegram",
@@ -422,7 +465,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-25",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "CoinMarketCap Fast Alerts Telegram",
@@ -439,7 +483,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-26",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/ethtrader Market Discussion",
@@ -456,7 +501,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-27",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/ethfinance Financial Ecosystem",
@@ -473,7 +519,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-reddit-28",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Ethereum Core Discord Server",
@@ -490,7 +537,8 @@
     ],
     "id": "crypto-solana-memecoins-hub-discord-29",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "CoinDesk Official Market Wire",
@@ -507,6 +555,7 @@
     ],
     "id": "crypto-solana-memecoins-hub-telegram-30",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
