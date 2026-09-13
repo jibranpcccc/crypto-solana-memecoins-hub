@@ -1,6 +1,25 @@
 [
   {
     "id": "crypto-solana-memecoins-hub-reddit-20260913-1",
+    "title": "r/cryptoairdrop Farming Guides",
+    "platform": "Reddit",
+    "category": "Retroactive Drops",
+    "memberCount": "48,000+ members",
+    "description": "Detailed guides on testnet tasks, bridge volume requirements, governance participation, and retroactive airdrop farming.",
+    "joinUrl": "https://www.reddit.com/r/cryptoairdrop/",
+    "tags": [
+      "airdrop",
+      "farming",
+      "testnet",
+      "crypto"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
+    "id": "crypto-solana-memecoins-hub-reddit-20260913-1",
     "title": "r/airdrop Verified Token Airdrops",
     "platform": "Reddit",
     "category": "Airdrop Alpha",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {
