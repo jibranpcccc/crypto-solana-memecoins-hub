@@ -4,10 +4,17 @@
     <title>Solana Ecosystem &amp; Alpha Callers Hub</title>
     <link>https://crypto-solana-memecoins-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:00:43 GMT</lastBuildDate>
     <atom:link href="https://crypto-solana-memecoins-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                            <item>
+                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-forum-20261026-1-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:43 GMT</pubDate>
+      <description>Newly verified community added to Solana Ecosystem &amp; Alpha Callers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-forum-20261026-1-2026-10-26</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-discord-20260929-1-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:00:43 GMT</pubDate>
       <description>Newly verified community added to Solana Ecosystem &amp; Alpha Callers Hub: Official server for Starknet developers, testnet alpha, grant proposals, and ecosystem updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Berachain Official Discord (Discord)</title>
-      <link>https://discord.gg/berachain</link>
-      <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-discord-20260927-1-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:00:44 GMT</pubDate>
-      <description>Newly verified community added to Solana Ecosystem &amp; Alpha Callers Hub: Official Discord server for the Bera community, testnet faucets, validator instructions, and ecosystem dApps.</description>
     </item>
   </channel>
 </rss>
