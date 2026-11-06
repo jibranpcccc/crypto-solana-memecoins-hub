@@ -4,10 +4,17 @@
     <title>Solana Ecosystem &amp; Alpha Callers Hub</title>
     <link>https://crypto-solana-memecoins-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 06:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:00:48 GMT</lastBuildDate>
     <atom:link href="https://crypto-solana-memecoins-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                        <item>
+                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-forum-20261026-1-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:48 GMT</pubDate>
+      <description>Newly verified community added to Solana Ecosystem &amp; Alpha Callers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-forum-20261026-1-2026-11-04</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-forum-20261008-1-2026-10-08</guid>
       <pubDate>Thu, 08 Oct 2026 06:00:45 GMT</pubDate>
       <description>Newly verified community added to Solana Ecosystem &amp; Alpha Callers Hub: The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DeFi Airdrops Radar Telegram (Telegram)</title>
-      <link>https://t.me/defiairdrops</link>
-      <guid isPermaLink="false">https://crypto-solana-memecoins-hub.netlify.app/#crypto-solana-memecoins-hub-telegram-20261006-1-2026-10-06</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:48 GMT</pubDate>
-      <description>Newly verified community added to Solana Ecosystem &amp; Alpha Callers Hub: Early notifications on liquidity mining programs, point systems, and prospective protocol tokens.</description>
     </item>
   </channel>
 </rss>
