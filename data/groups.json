@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/CryptoMoonShots Early Discoveries",
+    "platform": "Reddit",
+    "category": "Crypto Alpha",
+    "memberCount": "2,100,000+ members",
+    "description": "High-velocity community dedicated to discovering early-stage cryptocurrency tokens, DEX listings, and community-driven projects.",
+    "joinUrl": "https://www.reddit.com/r/CryptoMoonShots/",
+    "tags": [
+      "moonshots",
+      "crypto",
+      "altcoins",
+      "reddit"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-3",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "title": "r/SolanaMemeCoins Alpha & Discussion",
     "platform": "Reddit",
     "category": "Solana Memecoins",
@@ -15,7 +34,7 @@
     "id": "crypto-solana-memecoins-hub-reddit-2",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -758,24 +777,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/CryptoMoonShots Early Discoveries",
-    "platform": "Reddit",
-    "category": "Crypto Alpha",
-    "memberCount": "2,100,000+ members",
-    "description": "High-velocity community dedicated to discovering early-stage cryptocurrency tokens, DEX listings, and community-driven projects.",
-    "joinUrl": "https://www.reddit.com/r/CryptoMoonShots/",
-    "tags": [
-      "moonshots",
-      "crypto",
-      "altcoins",
-      "reddit"
-    ],
-    "id": "crypto-solana-memecoins-hub-reddit-3",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/CryptoCurrency Global Market Hub",
