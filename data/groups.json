@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/CryptoCurrency Global Market Hub",
+    "platform": "Reddit",
+    "category": "Crypto Markets",
+    "memberCount": "8,900,000+ members",
+    "description": "The leading Reddit crypto community covering market trends, regulatory shifts, decentralized technologies, and macroeconomic sentiment.",
+    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "tags": [
+      "cryptocurrency",
+      "market",
+      "blockchain",
+      "reddit"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-4",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "title": "r/CryptoMoonShots Early Discoveries",
     "platform": "Reddit",
     "category": "Crypto Alpha",
@@ -15,7 +34,7 @@
     "id": "crypto-solana-memecoins-hub-reddit-3",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -777,24 +796,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/CryptoCurrency Global Market Hub",
-    "platform": "Reddit",
-    "category": "Crypto Markets",
-    "memberCount": "8,900,000+ members",
-    "description": "The leading Reddit crypto community covering market trends, regulatory shifts, decentralized technologies, and macroeconomic sentiment.",
-    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
-    "tags": [
-      "cryptocurrency",
-      "market",
-      "blockchain",
-      "reddit"
-    ],
-    "id": "crypto-solana-memecoins-hub-reddit-4",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/Raydium AMM & Liquidity Pools",
