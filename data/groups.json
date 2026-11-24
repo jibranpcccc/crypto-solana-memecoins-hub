@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/dexscreener Real-Time Analytics",
+    "platform": "Reddit",
+    "category": "DEX Analytics",
+    "memberCount": "18,000+ members",
+    "description": "Discussions on DEX chart analysis, token pair metrics, liquidity locks, volume tracking, and market trends.",
+    "joinUrl": "https://www.reddit.com/r/dexscreener/",
+    "tags": [
+      "dexscreener",
+      "charts",
+      "analytics",
+      "trading"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-7",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "title": "r/JupiterExchange DEX Aggregator Hub",
     "platform": "Reddit",
     "category": "Solana DeFi",
@@ -15,7 +34,7 @@
     "id": "crypto-solana-memecoins-hub-reddit-6",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -834,24 +853,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/dexscreener Real-Time Analytics",
-    "platform": "Reddit",
-    "category": "DEX Analytics",
-    "memberCount": "18,000+ members",
-    "description": "Discussions on DEX chart analysis, token pair metrics, liquidity locks, volume tracking, and market trends.",
-    "joinUrl": "https://www.reddit.com/r/dexscreener/",
-    "tags": [
-      "dexscreener",
-      "charts",
-      "analytics",
-      "trading"
-    ],
-    "id": "crypto-solana-memecoins-hub-reddit-7",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/PumpFun Bonding Curve Launchpad",
