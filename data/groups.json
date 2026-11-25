@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/PumpFun Bonding Curve Launchpad",
+    "platform": "Reddit",
+    "category": "Token Launches",
+    "memberCount": "28,000+ members",
+    "description": "Discussions on fair-launch token mechanics, bonding curve dynamics, Raydium migration thresholds, and creator tokens.",
+    "joinUrl": "https://www.reddit.com/r/PumpFun/",
+    "tags": [
+      "pumpfun",
+      "launches",
+      "memecoins",
+      "solana"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-8",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "title": "r/dexscreener Real-Time Analytics",
     "platform": "Reddit",
     "category": "DEX Analytics",
@@ -15,7 +34,7 @@
     "id": "crypto-solana-memecoins-hub-reddit-7",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -853,24 +872,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/PumpFun Bonding Curve Launchpad",
-    "platform": "Reddit",
-    "category": "Token Launches",
-    "memberCount": "28,000+ members",
-    "description": "Discussions on fair-launch token mechanics, bonding curve dynamics, Raydium migration thresholds, and creator tokens.",
-    "joinUrl": "https://www.reddit.com/r/PumpFun/",
-    "tags": [
-      "pumpfun",
-      "launches",
-      "memecoins",
-      "solana"
-    ],
-    "id": "crypto-solana-memecoins-hub-reddit-8",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/CryptoMarkets Technical Analysis",
