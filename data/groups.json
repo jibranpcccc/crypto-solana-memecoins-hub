@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/CryptoMarkets Technical Analysis",
+    "platform": "Reddit",
+    "category": "Technical Analysis",
+    "memberCount": "1,600,000+ members",
+    "description": "Algorithmic and chart-based trading discussions, on-chain whale activity, and market momentum analysis.",
+    "joinUrl": "https://www.reddit.com/r/CryptoMarkets/",
+    "tags": [
+      "cryptomarkets",
+      "ta",
+      "trading",
+      "whales"
+    ],
+    "id": "crypto-solana-memecoins-hub-reddit-9",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "title": "r/PumpFun Bonding Curve Launchpad",
     "platform": "Reddit",
     "category": "Token Launches",
@@ -15,7 +34,7 @@
     "id": "crypto-solana-memecoins-hub-reddit-8",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -872,24 +891,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/CryptoMarkets Technical Analysis",
-    "platform": "Reddit",
-    "category": "Technical Analysis",
-    "memberCount": "1,600,000+ members",
-    "description": "Algorithmic and chart-based trading discussions, on-chain whale activity, and market momentum analysis.",
-    "joinUrl": "https://www.reddit.com/r/CryptoMarkets/",
-    "tags": [
-      "cryptomarkets",
-      "ta",
-      "trading",
-      "whales"
-    ],
-    "id": "crypto-solana-memecoins-hub-reddit-9",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/altcoin Research & Discovery",
